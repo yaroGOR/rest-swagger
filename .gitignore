@@ -1,0 +1,4 @@
+.env
+/logs
+/posts
+.DS_Store
